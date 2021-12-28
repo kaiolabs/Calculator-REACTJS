@@ -1,0 +1,42 @@
+button{
+    background-color: white;
+    width: 3.3em;
+    height: 2em;
+    border: none;
+    font-size: 1.5em;
+    border-radius: 0.9em;
+    margin: 0.2em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color: #282A35;
+    border-radius: 1.1em;
+    padding: 1em;
+    box-shadow: 20px 20px 50px #00000080;
+    border-top: 1px solid #ffffff80;
+    border-left: 1px solid #ffffff80;
+}
+
+.result{
+    color: black;
+    overflow: hidden;
+    border-radius: 15px;
+    padding-right: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: right;
+    width: 95%;
+    font-size: 3em;
+}
+
+h1{
+    padding-top: 20px;
+    color: white;
+    font-size: 1em;
+}
