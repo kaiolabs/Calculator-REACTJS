@@ -1,7 +1,7 @@
 {
   "name": "calculator",
   "version": "0.1.0",
-  "homepage": "github-page/",
+  "homepage": "https://kaiolabs.github.io/Calculator-REACTJS/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
