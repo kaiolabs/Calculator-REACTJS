@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.384bbc10.css",
-    "main.js": "/github-page/static/js/main.3c6bca74.js",
-    "static/js/787.a56d0904.chunk.js": "/github-page/static/js/787.a56d0904.chunk.js",
-    "index.html": "/github-page/index.html",
-    "main.384bbc10.css.map": "/github-page/static/css/main.384bbc10.css.map",
-    "main.3c6bca74.js.map": "/github-page/static/js/main.3c6bca74.js.map",
-    "787.a56d0904.chunk.js.map": "/github-page/static/js/787.a56d0904.chunk.js.map"
+    "main.css": "/Calculator-REACTJS/static/css/main.384bbc10.css",
+    "main.js": "/Calculator-REACTJS/static/js/main.8e4dd7f2.js",
+    "static/js/787.a56d0904.chunk.js": "/Calculator-REACTJS/static/js/787.a56d0904.chunk.js",
+    "index.html": "/Calculator-REACTJS/index.html",
+    "main.384bbc10.css.map": "/Calculator-REACTJS/static/css/main.384bbc10.css.map",
+    "main.8e4dd7f2.js.map": "/Calculator-REACTJS/static/js/main.8e4dd7f2.js.map",
+    "787.a56d0904.chunk.js.map": "/Calculator-REACTJS/static/js/787.a56d0904.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.384bbc10.css",
-    "static/js/main.3c6bca74.js"
+    "static/js/main.8e4dd7f2.js"
   ]
 }
